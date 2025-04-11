@@ -1,4 +1,4 @@
-let numero = 4;
+let numero = 1;
 
 while (numero <= 20){
     numero++;
