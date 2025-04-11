@@ -4,5 +4,5 @@ let moedas = 0;
 while (dinheiro < 10) {
     dinheiro += 2;
     moedas ++
-    console.log("Juntei " + dinheiro + " reais e " + moedas + " moedas" )
+    console.log("Juntei " + dinheiro + " reais e " + moedas + " moedas" );
 }
